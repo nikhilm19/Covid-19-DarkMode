@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/covid19dark/static/css/main.f9b8ed07.chunk.css",
+    "main.css": "/covid19dark/static/css/main.da95bee2.chunk.css",
     "main.js": "/covid19dark/static/js/main.184faa3a.chunk.js",
     "main.js.map": "/covid19dark/static/js/main.184faa3a.chunk.js.map",
     "runtime-main.js": "/covid19dark/static/js/runtime-main.286c82da.js",
@@ -8,16 +8,16 @@
     "static/js/2.12afe13d.chunk.js": "/covid19dark/static/js/2.12afe13d.chunk.js",
     "static/js/2.12afe13d.chunk.js.map": "/covid19dark/static/js/2.12afe13d.chunk.js.map",
     "index.html": "/covid19dark/index.html",
-    "precache-manifest.a7d88a8e1cf6dff1f62831e259b59cfa.js": "/covid19dark/precache-manifest.a7d88a8e1cf6dff1f62831e259b59cfa.js",
+    "precache-manifest.1e592146c514623534287b248c563542.js": "/covid19dark/precache-manifest.1e592146c514623534287b248c563542.js",
     "service-worker.js": "/covid19dark/service-worker.js",
-    "static/css/main.f9b8ed07.chunk.css.map": "/covid19dark/static/css/main.f9b8ed07.chunk.css.map",
+    "static/css/main.da95bee2.chunk.css.map": "/covid19dark/static/css/main.da95bee2.chunk.css.map",
     "static/js/2.12afe13d.chunk.js.LICENSE.txt": "/covid19dark/static/js/2.12afe13d.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/covid19dark/static/media/archia-thin-webfont.e88f1cf3.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.286c82da.js",
     "static/js/2.12afe13d.chunk.js",
-    "static/css/main.f9b8ed07.chunk.css",
+    "static/css/main.da95bee2.chunk.css",
     "static/js/main.184faa3a.chunk.js"
   ]
 }
