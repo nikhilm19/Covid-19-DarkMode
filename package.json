@@ -1,8 +1,8 @@
 {
-  "name": "covid19india",
+  "name": "covid19-darkmode",
   "version": "1.0.0",
   "private": true,
-  "homepage": "http://covid19india.github.io/",
+  "homepage": "https://nikhilm19.github.io/Covid-19-DarkMode/",
   "dependencies": {
     "axios": "^0.19.2",
     "d3": "^5.15.0",
@@ -28,7 +28,9 @@
     "eslint": "eslint .",
     "eslint:fix": "eslint --fix .",
     "format": "prettier --write \"**/*.+(js|jsx|json|yml|yaml|css|md|vue)\"",
-    "scsslint": "sass-lint-auto-fix"
+    "scsslint": "sass-lint-auto-fix",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -56,6 +58,7 @@
     "eslint-config-prettier": "^6.10.1",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.19.0",
+    "gh-pages": "^2.2.0",
     "husky": "^4.2.3",
     "lint-staged": "^10.0.9",
     "prettier": "^2.0.2",

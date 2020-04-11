@@ -1,23 +1,39 @@
-# covid19india
-
-<p align="center">
-<img src="https://lh3.googleusercontent.com/c1R9ua5XDaInXNNYEVKs5NzwQ36gYCXi1VJ5kLRxGcDYmyUSJM3dnkzqaPWP_CniaHQbQSr4yQqxmsoEGvGFrWFnBRAVjI4=s2560" width="50%">
+<h1 align="center">Welcome to CovidIndia-Tracker (Clone) 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/iamnikhil98" target="_blank">
+    <img alt="Twitter: iamnikhil98" src="https://img.shields.io/twitter/follow/iamnikhil98.svg?style=social" />
+  </a>
 </p>
 
-<p align="center">
-  View our <a href="https://bit.ly/patientdb">live patient database</a>.
- </p>
+> A clone of covid-19 tracker dashboard for India ([covid19India.org](https://github.com/covid19india/covid19india-react))
 
-## Setup
+### 🏠 [Homepage](http://nikhilm19.github.io/covid19india-clone)
 
-```
+## 💡 Features
+
+A dark mode for [covid19india.org](covid19india.org)
+
+### ✨ [Demo](https://drive.google.com/open?id=1RqKwJ-rMVO0js5TlFMXjxjkNmJweYoi4)
+
+## Usage
+
+```sh
 npm i && npm start
 ```
 
-## Maintainers
+## Author
 
-- [jeremyphilemon](https://github.com/jeremyphilemon)
+👤 **Nikhil Mulchandani**
 
-## Contribution
+- Website: http://gyaanideveloper.wordpress.com
+- Twitter: [@iamnikhil98](https://twitter.com/iamnikhil98)
+- Github: [@nikhilm19](https://github.com/nikhilm19)
 
-If you're new to contributing to Open Source on Github, [this guide](https://guides.github.com/activities/contributing-to-open-source/) can help you get started. Please check out the [contribution guide](CONTRIBUTING.md) for more details on how issues and pull requests work.
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+---
+
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

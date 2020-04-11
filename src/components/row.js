@@ -100,7 +100,7 @@ function Row(props) {
         onMouseLeave={() => props.onHighlightState?.()}
         touchstart={() => props.onHighlightState?.(state, props.index)}
         onClick={!props.total ? handleReveal : null}
-        style={{background: props.index % 2 === 0 ? '#f8f9fa' : ''}}
+        style={{background: props.index % 2 === 0 ? '#4d6d8a' : ''}}
       >
         <td style={{fontWeight: 600}}>
           {state.state}
@@ -111,7 +111,7 @@ function Row(props) {
           )}
         </td>
         <td>
-          <span className="deltas" style={{color: '#ff073a'}}>
+          <span className="deltas" style={{color: '#ff6768'}}>
             {state.deltaconfirmed > 0 && <Icon.ArrowUp />}
             {state.deltaconfirmed > 0 ? `${state.deltaconfirmed}` : ''}
           </span>
@@ -233,7 +233,7 @@ function Row(props) {
                   className={`district`}
                   style={{
                     display: props.reveal && !props.total ? '' : 'none',
-                    background: index % 2 === 0 ? '#f8f9fa' : '',
+                    background: index % 2 === 0 ? '#4d6d8a' : '',
                   }}
                   onMouseEnter={() =>
                     props.onHighlightDistrict?.(district, state, props.index)
@@ -245,7 +245,7 @@ function Row(props) {
                 >
                   <td style={{fontWeight: 600}}>{district}</td>
                   <td>
-                    <span className="deltas" style={{color: '#ff073a'}}>
+                    <span className="deltas" style={{color: '#ff6768'}}>
                       {sortedDistricts[district].delta.confirmed > 0 && (
                         <Icon.ArrowUp />
                       )}
@@ -268,7 +268,7 @@ function Row(props) {
         >
           <td style={{fontWeight: 600}}>Unknown</td>
           <td>
-            <span className="deltas" style={{color: '#ff073a'}}>
+            <span className="deltas" style={{color: '#ff6768'}}>
               {sortedDistricts['Unknown'].delta.confirmed > 0 && (
                 <Icon.ArrowUp />
               )}

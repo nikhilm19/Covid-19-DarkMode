@@ -1,11 +1,14 @@
+
+
+
 @font-face {
   font-family: 'Archia';
   src: url('fonts/Archia/archia-thin-webfont.eot');
   src:
-    url('fonts/Archia/archia-thin-webfont.eot?#iefix') format('embedded-opentype'),
-    url('fonts/Archia/archia-thin-webfont.woff2') format('woff2'),
-    url('fonts/Archia/archia-thin-webfont.woff') format('woff'),
-    url('fonts/Archia/archia-thin-webfont.ttf') format('truetype');
+          url('fonts/Archia/archia-thin-webfont.eot?#iefix') format('embedded-opentype'),
+          url('fonts/Archia/archia-thin-webfont.woff2') format('woff2'),
+          url('fonts/Archia/archia-thin-webfont.woff') format('woff'),
+          url('fonts/Archia/archia-thin-webfont.ttf') format('truetype');
   font-weight: 100;
   font-style: normal;
 }
@@ -14,10 +17,10 @@
   font-family: 'Archia';
   src: url('fonts/Archia/archia-light-webfont.eot');
   src:
-    url('fonts/Archia/archia-light-webfont.eot?#iefix') format('embedded-opentype'),
-    url('fonts/Archia/archia-light-webfont.woff2') format('woff2'),
-    url('fonts/Archia/archia-light-webfont.woff') format('woff'),
-    url('fonts/Archia/archia-light-webfont.ttf') format('truetype');
+          url('fonts/Archia/archia-light-webfont.eot?#iefix') format('embedded-opentype'),
+          url('fonts/Archia/archia-light-webfont.woff2') format('woff2'),
+          url('fonts/Archia/archia-light-webfont.woff') format('woff'),
+          url('fonts/Archia/archia-light-webfont.ttf') format('truetype');
   font-weight: 200;
   font-style: normal;
 }
@@ -26,10 +29,10 @@
   font-family: 'Archia';
   src: url('fonts/Archia/archia-regular-webfont.eot');
   src:
-    url('fonts/Archia/archia-regular-webfont.eot?#iefix') format('embedded-opentype'),
-    url('fonts/Archia/archia-regular-webfont.woff2') format('woff2'),
-    url('fonts/Archia/archia-regular-webfont.woff') format('woff'),
-    url('fonts/Archia/archia-regular-webfont.ttf') format('truetype');
+          url('fonts/Archia/archia-regular-webfont.eot?#iefix') format('embedded-opentype'),
+          url('fonts/Archia/archia-regular-webfont.woff2') format('woff2'),
+          url('fonts/Archia/archia-regular-webfont.woff') format('woff'),
+          url('fonts/Archia/archia-regular-webfont.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
@@ -38,10 +41,10 @@
   font-family: 'Archia';
   src: url('fonts/Archia/archia-medium-webfont.eot');
   src:
-    url('fonts/Archia/archia-medium-webfont.eot?#iefix') format('embedded-opentype'),
-    url('fonts/Archia/archia-medium-webfont.woff2') format('woff2'),
-    url('fonts/Archia/archia-medium-webfont.woff') format('woff'),
-    url('fonts/Archia/archia-medium-webfont.ttf') format('truetype');
+          url('fonts/Archia/archia-medium-webfont.eot?#iefix') format('embedded-opentype'),
+          url('fonts/Archia/archia-medium-webfont.woff2') format('woff2'),
+          url('fonts/Archia/archia-medium-webfont.woff') format('woff'),
+          url('fonts/Archia/archia-medium-webfont.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
@@ -50,10 +53,10 @@
   font-family: 'Archia';
   src: url('fonts/Archia/archia-semibold-webfont.eot');
   src:
-    url('fonts/Archia/archia-semibold-webfont.eot?#iefix') format('embedded-opentype'),
-    url('fonts/Archia/archia-semibold-webfont.woff2') format('woff2'),
-    url('fonts/Archia/archia-semibold-webfont.woff') format('woff'),
-    url('fonts/Archia/archia-semibold-webfont.ttf') format('truetype');
+          url('fonts/Archia/archia-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+          url('fonts/Archia/archia-semibold-webfont.woff2') format('woff2'),
+          url('fonts/Archia/archia-semibold-webfont.woff') format('woff'),
+          url('fonts/Archia/archia-semibold-webfont.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
 }
@@ -62,10 +65,10 @@
   font-family: 'Archia';
   src: url('fonts/Archia/archia-bold-webfont.eot');
   src:
-    url('fonts/Archia/archia-bold-webfont.eot?#iefix') format('embedded-opentype'),
-    url('fonts/Archia/archia-bold-webfont.woff2') format('woff2'),
-    url('fonts/Archia/archia-bold-webfont.woff') format('woff'),
-    url('fonts/Archia/archia-bold-webfont.ttf') format('truetype');
+          url('fonts/Archia/archia-bold-webfont.eot?#iefix') format('embedded-opentype'),
+          url('fonts/Archia/archia-bold-webfont.woff2') format('woff2'),
+          url('fonts/Archia/archia-bold-webfont.woff') format('woff'),
+          url('fonts/Archia/archia-bold-webfont.ttf') format('truetype');
   font-weight: 900;
   font-style: normal;
 }
@@ -129,10 +132,38 @@ $purple-light: #201aa220;
 $purple-hover: #201aa230;
 $purple-mid: #201aa299;
 $purple-light-opaque: #e3e2f3;
+$purple-dark: #d1b3ff;
 $pink: #fb5581;
 $pink-light: #ffa8cb10;
 $pink-hover: #ffa8cb30;
 $pink-mid: #ffa8cb99;
+$gray-light: #ffffff;
+$black: #000000;
+
+
+
+// Dark theme colors
+
+$gray-dark---dark-theme: #263859;
+$purple-dark---dark-theme: #543864;
+
+$gray-mid--dark-theme: #b5b5b5;
+$gray--dark-theme: #f4f4f4;
+
+$gray-light--dark-theme: #7c7c7c;
+$gray-opaque--dark-theme: rgba(241, 241, 241, 0.49);
+$blue-light--dark-theme: #007bff10;
+$blue-mid--dark-theme: rgba(113, 198, 255, 0.68);
+
+$pblue--dark-theme: #819bf2;
+$gray-hover--dark-theme: rgba(108, 117, 125, 0.88);
+
+
+$cherry--dark-theme: rgba(255,7,58,1);
+$cherry-mid--dark-theme: rgba(255,7,58,.8);
+$cherry-light: #ff073a20;
+$cherry-hover: #ff073a30;
+
 
 @mixin navbarReveal($color) {
   $animation-name: unique-id() !global;
@@ -169,6 +200,7 @@ body {
   margin: 0;
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
+  background-color: #17223b
 }
 
 h1 {
@@ -261,8 +293,8 @@ h6 {
   font-family: 'Archia';
   font-size: 0.8rem;
   font-weight: 600;
-  color: $purple;
-  background: $purple-light;
+  color: $purple-dark;
+  background: $purple-dark---dark-theme;
 
   .snippet {
     align-self: center;
@@ -282,7 +314,7 @@ h6 {
   text-transform: uppercase;
   font-weight: 900;
 
-  @include navbarReveal($gray-light);
+  @include navbarReveal($gray-dark---dark-theme);
 
   .navbar-left {
     margin-left: 2rem;
@@ -295,21 +327,21 @@ h6 {
       font-family: 'Archia';
       text-decoration: none;
       margin-right: 2rem;
-      color: $gray-mid;
+      color: $gray-mid--dark-theme;
 
       span {
         display: inline-block;
         transition: color 0.2s ease-in-out;
-        
+
         &:hover {
-          color: $gray;
+          color: $gray-mid--dark-theme;
         }
       }
     }
   }
 
   .focused {
-    color: $gray;
+    color: $gray--dark-theme;
   }
 
   img {
@@ -337,7 +369,7 @@ h6 {
   }
 
   h1 {
-    color: $gray-dark;
+    color: $gray-light;
   }
 
   .header-mid {
@@ -390,7 +422,7 @@ h6 {
   font-family: 'archia';
   text-transform: uppercase;
   background: $blue-light;
-  color: $blue-mid;
+  color: $blue-mid--dark-theme;
   cursor: pointer;
   font-weight: 900;
   border-radius: 5px;
@@ -510,10 +542,10 @@ h6 {
   }
 
   .is-cherry {
-    h1 { color: $cherry; }
+    h1 { color: $cherry--dark-theme; }
 
     h4,
-    h5 { color: $cherry-mid; }
+    h5 { color: $cherry-mid--dark-theme; }
   }
 
   .is-blue {
@@ -534,7 +566,7 @@ h6 {
     h1 { color: $gray; }
 
     h4,
-    h5 { color: $gray-mid; }
+    h5 { color: $gray-mid--dark-theme; }
   }
 }
 
@@ -561,7 +593,7 @@ abbr {
 .table-fineprint {
   text-align: right;
   margin: 0 0 0 0;
-  color: $gray-mid;
+  color: $gray-mid--dark-theme;
   margin-bottom: 0.25rem;
   margin-right: 0.25rem;
   a {
@@ -589,8 +621,8 @@ table {
   border-collapse: separate;
 
   thead {
-    background: $gray-light;
-    color: $gray-dark;
+    background: $blue-light--dark-theme;
+    color: $white;
     text-align: left;
     font-size: 0.75rem;
 
@@ -603,11 +635,12 @@ table {
 
       &.sticky {
         top: 4px;
-        background: $gray-opaque;
+        background: $gray-opaque--dark-theme;
       }
 
       &:hover {
         background: #ecedee;
+        color: $black;
       }
 
       .heading-content {
@@ -636,14 +669,14 @@ table {
   }
 
   tbody {
-    color: $gray;
+    color: $gray-mid--dark-theme;
 
     tr {
       transition: background 0.1s ease-in-out;
       cursor: pointer;
 
       &:hover {
-        background: $gray-hover !important;
+        background: $blue !important;
       }
 
       &.divider {
@@ -653,7 +686,7 @@ table {
 
       &.spacer {
         height: 0.5rem;
-        background: #fff !important;
+        background: $blue !important;
       }
     }
 
@@ -717,14 +750,15 @@ table {
 
     .district-heading {
       transform: translateX(1rem);
-      background: $gray-light;
+      background: $gray-light--dark-theme;
+
 
       td {
         font-size: 0.75rem;
         font-weight: 900;
         padding: 0.45rem;
-        color: $gray-dark;
-        background: $gray-light;
+        background: $gray-light--dark-theme;
+        color: $white;
 
         .heading-content {
           display: flex;
@@ -775,7 +809,7 @@ table {
   .dropdown {
     position: absolute;
     left: -0.75rem;
-    background: $gray-light;
+    background: $gray-dark;
     border-radius: 50%;
     width: 13px;
     height: 13px;
@@ -845,7 +879,7 @@ table {
         text-align: right;
         font-family: 'archia';
         font-weight: 600;
-        fill: $gray;
+        fill: $gray--dark-theme;
         font-size: 10px;
       }
     }
@@ -956,11 +990,11 @@ table {
       }
 
       &.is-gray {
-        background: $gray-light;
+        background: $gray-light--dark-theme;
         h5,
-        h6 { color: $gray-mid; }
+        h6 { color: $gray-mid--dark-theme; }
 
-        h1 { color: $gray; }
+        h1 { color: $gray--dark-theme; }
       }
 
       &.is-yellow {
@@ -990,10 +1024,10 @@ table {
 
   .tab {
     min-width: 5rem;
-    background: $gray-light;
+    background: $gray-light--dark-theme;
     padding-left: 1rem;
     padding-right: 1rem;
-    color: $gray-mid;
+    color: $gray-mid--dark-theme;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     cursor: pointer;
@@ -1002,12 +1036,12 @@ table {
     transition: all 0.3s ease-in-out;
 
     &:hover {
-      background: $gray-hover;
+      background: $gray-hover--dark-theme;
     }
 
     &.focused {
-      color: $gray;
-      background: $gray-opaque;
+      color: $gray--dark-theme;
+      background: $gray-opaque--dark-theme;
     }
   }
 }
@@ -1021,7 +1055,7 @@ table {
 
 .timeseries-header {
   h1 {
-    color: $gray-dark;
+    color: $gray-light;
     margin: 0;
     margin-bottom: 0.5rem;
   }
@@ -1069,7 +1103,7 @@ table {
         border-radius: 10px;
         transition: all 200ms ease-in-out;
       }
-  
+
       input.switch::after {
         content: "";
         position: absolute;
@@ -1080,17 +1114,17 @@ table {
         background-color: $gray-mid;
         border-radius: 50%;
       }
-  
+
       input.switch:checked {
         background-color: $gray-mid;
         transition: all 200ms ease-in-out;
       }
-  
+
       input.switch:checked::after {
         left: 10px;
         background-color: $light;
       }
-      
+
       label{
         font-size: 0.75rem;
         margin-right: 0.2rem;
@@ -1162,8 +1196,8 @@ table {
     }
 
     &.is-green {
-      h5 { 
-        color: $green-mid; 
+      h5 {
+        color: $green-mid;
         &.title {
           color: $green;
         }
@@ -1174,8 +1208,8 @@ table {
     }
 
     &.is-gray {
-      h5 { 
-        color: $gray-mid; 
+      h5 {
+        color: $gray-mid;
         &.title {
           color: $gray;
         }
@@ -1239,16 +1273,16 @@ table {
     }
 
     &.is-gray {
-      background: $gray-light;
+      background: $gray-dark---dark-theme;
 
       .domain,
       .tick,
       line {
-        stroke: $gray;
+        stroke: $gray--dark-theme;
       }
 
       text {
-        color: $gray-mid;
+        color: $gray-mid--dark-theme;
         stroke: transparent;
       }
     }
@@ -1307,7 +1341,7 @@ table {
 
   h3 {
     margin-bottom: 0;
-    color: $gray-dark;
+    color: $gray-light;
     font-weight: 900;
   }
 }
@@ -1427,7 +1461,7 @@ footer {
   }
 
   .question {
-    color: $gray-dark;
+    color: $gray--dark-theme; //gray-dark
     margin: 0;
     margin-bottom: 0.25rem;
   }
@@ -1761,7 +1795,7 @@ footer {
         display: flex;
         flex-direction: column;
         & > * {
-          align-self: flex-end; 
+          align-self: flex-end;
         }
 
         h5 {
@@ -1787,36 +1821,36 @@ footer {
 .DownloadBlock {
   margin-top: 2rem;
   align-self: center;
-    code {
-      font-family: 'archia';
-      color: $orange-mid;
-    }
+  code {
+    font-family: 'archia';
+    color: $orange-mid;
+  }
 
-    a {
-     text-decoration: none !important;
-     color: $orange-mid;
-    }
+  a {
+    text-decoration: none !important;
+    color: $orange-mid;
+  }
 
-    .button {
-      display: flex;
-      flex-direction: row;
-      justify-content: center;
-      & > * {
-        align-self: center;
-      }
-      background: $orange-light;
-      height: 3rem;
-      width: 10rem;
-      text-align: center;
-      &:hover {
-        background: $orange-hover;
-      }
+  .button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    & > * {
+      align-self: center;
     }
+    background: $orange-light;
+    height: 3rem;
+    width: 10rem;
+    text-align: center;
+    &:hover {
+      background: $orange-hover;
+    }
+  }
 
-    svg {
-      stroke: $orange-mid;
-      stroke-width: 3;
-    }
+  svg {
+    stroke: $orange-mid;
+    stroke-width: 3;
+  }
 }
 
 .modal {
@@ -1943,7 +1977,7 @@ footer {
     font-weight: 600;
   }
 
-  .summary { 
+  .summary {
     flex-direction: row-reverse;
     flex-wrap: wrap-reverse
   }
@@ -2140,7 +2174,7 @@ select {
 
     &.is-it {
       background: url('/flags/italy.png');
-    background-size: cover !important;
+      background-size: cover !important;
     }
 
     &.is-ca {
@@ -2393,3 +2427,5 @@ select {
     transform: translateY(20px);
   }
 }
+
+
