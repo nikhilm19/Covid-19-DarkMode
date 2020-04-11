@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://nikhilm19.github.io/Covid-19-DarkMode/precache-manifest.be6c6b1eab0fc7d4cc2699943165620d.js"
+  "https://nikhilm19.github.io/Covid-19-DarkMode/precache-manifest.6b29bec48f779f31139bf5d886f09c21.js"
 );
 
 self.addEventListener('message', (event) => {
