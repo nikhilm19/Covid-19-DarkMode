@@ -23,7 +23,7 @@ function Navbar(props) {
         <img
           className="fadeInUp logo"
           alt="India COVID-19 Tracker"
-          src="/icon.png"
+          src="https://raw.githubusercontent.com/nikhilm19/Covid-19-DarkMode/gh-pages/icon.png"
           style={{
             animationDelay: '0.0s',
             width: window.location.pathname === '/clusters' ? '1.5rem' : '',

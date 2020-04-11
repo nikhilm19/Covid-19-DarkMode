@@ -1,8 +1,12 @@
 import React, {useState, useEffect, useMemo, useCallback} from 'react';
 import ChoroplethMap from './choropleth';
-import {MAP_TYPES, MAPS_DIR} from '../constants';
+import {MAP_TYPES} from '../constants';
+
 import {formatDate, formatDateAbsolute} from '../utils/common-functions';
 import {formatDistance} from 'date-fns';
+
+const MAPS_DIR =
+  'https://raw.githubusercontent.com/nikhilm19/Covid-19-DarkMode/gh-pages/maps';
 
 const mapMeta = {
   India: {
