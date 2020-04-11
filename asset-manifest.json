@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Covid-19-DarkMode/static/css/main.5982bd70.chunk.css",
-    "main.js": "/Covid-19-DarkMode/static/js/main.7af038f2.chunk.js",
-    "main.js.map": "/Covid-19-DarkMode/static/js/main.7af038f2.chunk.js.map",
-    "runtime-main.js": "/Covid-19-DarkMode/static/js/runtime-main.1a0e8b9f.js",
-    "runtime-main.js.map": "/Covid-19-DarkMode/static/js/runtime-main.1a0e8b9f.js.map",
-    "static/js/2.12afe13d.chunk.js": "/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js",
-    "static/js/2.12afe13d.chunk.js.map": "/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js.map",
+    "main.css": "/Covid-19-DarkMode/static/css/main.9a6ee5d5.chunk.css",
+    "main.js": "/Covid-19-DarkMode/static/js/main.c6d5fe6b.chunk.js",
+    "main.js.map": "/Covid-19-DarkMode/static/js/main.c6d5fe6b.chunk.js.map",
+    "runtime-main.js": "/Covid-19-DarkMode/static/js/runtime-main.7883cbb2.js",
+    "runtime-main.js.map": "/Covid-19-DarkMode/static/js/runtime-main.7883cbb2.js.map",
+    "static/js/2.11d2311d.chunk.js": "/Covid-19-DarkMode/static/js/2.11d2311d.chunk.js",
+    "static/js/2.11d2311d.chunk.js.map": "/Covid-19-DarkMode/static/js/2.11d2311d.chunk.js.map",
     "index.html": "/Covid-19-DarkMode/index.html",
-    "precache-manifest.599321680b3c26009aaa787e6a0d46db.js": "/Covid-19-DarkMode/precache-manifest.599321680b3c26009aaa787e6a0d46db.js",
+    "precache-manifest.956be24f294aab0b53f584042c40b362.js": "/Covid-19-DarkMode/precache-manifest.956be24f294aab0b53f584042c40b362.js",
     "service-worker.js": "/Covid-19-DarkMode/service-worker.js",
-    "static/css/main.5982bd70.chunk.css.map": "/Covid-19-DarkMode/static/css/main.5982bd70.chunk.css.map",
-    "static/js/2.12afe13d.chunk.js.LICENSE.txt": "/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js.LICENSE.txt",
+    "static/css/main.9a6ee5d5.chunk.css.map": "/Covid-19-DarkMode/static/css/main.9a6ee5d5.chunk.css.map",
+    "static/js/2.11d2311d.chunk.js.LICENSE.txt": "/Covid-19-DarkMode/static/js/2.11d2311d.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/Covid-19-DarkMode/static/media/archia-thin-webfont.e88f1cf3.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a0e8b9f.js",
-    "static/js/2.12afe13d.chunk.js",
-    "static/css/main.5982bd70.chunk.css",
-    "static/js/main.7af038f2.chunk.js"
+    "static/js/runtime-main.7883cbb2.js",
+    "static/js/2.11d2311d.chunk.js",
+    "static/css/main.9a6ee5d5.chunk.css",
+    "static/js/main.c6d5fe6b.chunk.js"
   ]
 }
