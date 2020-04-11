@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Covid-19-DarkMode/static/css/main.01e814bd.chunk.css",
-    "main.js": "/Covid-19-DarkMode/static/js/main.edbdc9af.chunk.js",
-    "main.js.map": "/Covid-19-DarkMode/static/js/main.edbdc9af.chunk.js.map",
-    "runtime-main.js": "/Covid-19-DarkMode/static/js/runtime-main.1a0e8b9f.js",
-    "runtime-main.js.map": "/Covid-19-DarkMode/static/js/runtime-main.1a0e8b9f.js.map",
-    "static/js/2.12afe13d.chunk.js": "/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js",
-    "static/js/2.12afe13d.chunk.js.map": "/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js.map",
-    "index.html": "/Covid-19-DarkMode/index.html",
-    "precache-manifest.d346f3116d3b33ee910e093c6aac4716.js": "/Covid-19-DarkMode/precache-manifest.d346f3116d3b33ee910e093c6aac4716.js",
-    "service-worker.js": "/Covid-19-DarkMode/service-worker.js",
-    "static/css/main.01e814bd.chunk.css.map": "/Covid-19-DarkMode/static/css/main.01e814bd.chunk.css.map",
-    "static/js/2.12afe13d.chunk.js.LICENSE.txt": "/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/Covid-19-DarkMode/static/media/archia-thin-webfont.e88f1cf3.woff2"
+    "main.css": "https://nikhilm19.github.io/Covid-19-DarkMode/static/css/main.4c665497.chunk.css",
+    "main.js": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/main.0ff267d7.chunk.js",
+    "main.js.map": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/main.0ff267d7.chunk.js.map",
+    "runtime-main.js": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/runtime-main.bfc36f2b.js",
+    "runtime-main.js.map": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/runtime-main.bfc36f2b.js.map",
+    "static/js/2.12afe13d.chunk.js": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js",
+    "static/js/2.12afe13d.chunk.js.map": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js.map",
+    "index.html": "https://nikhilm19.github.io/Covid-19-DarkMode/index.html",
+    "precache-manifest.be6c6b1eab0fc7d4cc2699943165620d.js": "https://nikhilm19.github.io/Covid-19-DarkMode/precache-manifest.be6c6b1eab0fc7d4cc2699943165620d.js",
+    "service-worker.js": "https://nikhilm19.github.io/Covid-19-DarkMode/service-worker.js",
+    "static/css/main.4c665497.chunk.css.map": "https://nikhilm19.github.io/Covid-19-DarkMode/static/css/main.4c665497.chunk.css.map",
+    "static/js/2.12afe13d.chunk.js.LICENSE.txt": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "https://nikhilm19.github.io/Covid-19-DarkMode/static/media/archia-thin-webfont.e88f1cf3.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a0e8b9f.js",
+    "static/js/runtime-main.bfc36f2b.js",
     "static/js/2.12afe13d.chunk.js",
-    "static/css/main.01e814bd.chunk.css",
-    "static/js/main.edbdc9af.chunk.js"
+    "static/css/main.4c665497.chunk.css",
+    "static/js/main.0ff267d7.chunk.js"
   ]
 }
