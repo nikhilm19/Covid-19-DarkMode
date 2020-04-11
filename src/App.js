@@ -21,7 +21,7 @@ const history = require('history').createBrowserHistory;
 function App() {
   const pages = [
     {
-      pageLink: '/',
+      pageLink: '/Covid-19-DarkMode',
       view: Home,
       displayName: 'Home',
       animationDelayForNavbar: 0.2,
@@ -54,7 +54,11 @@ function App() {
             <div className="Almighty-Router">
               <Navbar pages={pages} />
               <Banner />
-              <Route exact path="/" render={() => <Redirect to="/" />} />
+              <Route
+                exact
+                path="/Covid-19-DarkMode"
+                render={() => <Redirect to="/Covid-19-DarkMode" />}
+              />
               <Switch location={location}>
                 {pages.map((page, i) => {
                   return (
@@ -81,9 +85,13 @@ function App() {
 
         <h5>We stand with everyone fighting on the frontlines</h5>
         <div className="link">
-          <a href="https://github.com/covid19india"
-          target="_blank"
-          rel="noopener noreferrer">covid19india</a>
+          <a
+            href="https://github.com/covid19india"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            covid19india
+          </a>
         </div>
         <a
           href="https://github.com/covid19india/covid19india-react"

@@ -2,7 +2,7 @@
   "name": "covid19india",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://nikhilm19.github.io/Covid-19-DarkMode/",
+  "homepage": "https://nikhilm19.github.io/Covid-19-DarkMode",
   "dependencies": {
     "axios": "^0.19.2",
     "d3": "^5.15.0",
