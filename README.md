@@ -8,13 +8,13 @@
 
 > A clone of covid-19 tracker dashboard for India ([covid19India.org](https://github.com/covid19india/covid19india-react))
 
-### 🏠 [Homepage](http://nikhilm19.github.io/covid19india-clone)
+### 🏠 [Homepage](https://github.com/nikhilm19/Covid-19-DarkMode)
 
 ## 💡 Features
 
 A dark mode for [covid19india.org](covid19india.org)
 
-### ✨ [Demo](https://drive.google.com/open?id=1RqKwJ-rMVO0js5TlFMXjxjkNmJweYoi4)
+### ✨ [Demo](https://nikhilm19.github.io/Covid-19-DarkMode/)
 
 ## Usage
 
