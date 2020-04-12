@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://nikhilm19.github.io/Covid-19-DarkMode/static/css/main.c84b85db.chunk.css",
-    "main.js": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/main.0670b443.chunk.js",
-    "main.js.map": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/main.0670b443.chunk.js.map",
+    "main.css": "https://nikhilm19.github.io/Covid-19-DarkMode/static/css/main.c70ca418.chunk.css",
+    "main.js": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/main.44feac1c.chunk.js",
+    "main.js.map": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/main.44feac1c.chunk.js.map",
     "runtime-main.js": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/runtime-main.bfc36f2b.js",
     "runtime-main.js.map": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/runtime-main.bfc36f2b.js.map",
     "static/js/2.12afe13d.chunk.js": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js",
     "static/js/2.12afe13d.chunk.js.map": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js.map",
     "index.html": "https://nikhilm19.github.io/Covid-19-DarkMode/index.html",
-    "precache-manifest.c4b884c2cda6ef47e2dcde9abbf78393.js": "https://nikhilm19.github.io/Covid-19-DarkMode/precache-manifest.c4b884c2cda6ef47e2dcde9abbf78393.js",
+    "precache-manifest.e02905327104402f599c2e44b4073991.js": "https://nikhilm19.github.io/Covid-19-DarkMode/precache-manifest.e02905327104402f599c2e44b4073991.js",
     "service-worker.js": "https://nikhilm19.github.io/Covid-19-DarkMode/service-worker.js",
-    "static/css/main.c84b85db.chunk.css.map": "https://nikhilm19.github.io/Covid-19-DarkMode/static/css/main.c84b85db.chunk.css.map",
+    "static/css/main.c70ca418.chunk.css.map": "https://nikhilm19.github.io/Covid-19-DarkMode/static/css/main.c70ca418.chunk.css.map",
     "static/js/2.12afe13d.chunk.js.LICENSE.txt": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js.LICENSE.txt",
     "static/media/App.scss": "https://nikhilm19.github.io/Covid-19-DarkMode/static/media/archia-thin-webfont.e88f1cf3.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.bfc36f2b.js",
     "static/js/2.12afe13d.chunk.js",
-    "static/css/main.c84b85db.chunk.css",
-    "static/js/main.0670b443.chunk.js"
+    "static/css/main.c70ca418.chunk.css",
+    "static/js/main.44feac1c.chunk.js"
   ]
 }
