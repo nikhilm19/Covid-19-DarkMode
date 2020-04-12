@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc658ad6a9669a08803eac84fa5bcedf",
+    "revision": "5cba6dc13e735a78f15702f52564e042",
     "url": "https://nikhilm19.github.io/Covid-19-DarkMode/index.html"
   },
   {
-    "revision": "c830a3944ddbd044770b",
-    "url": "https://nikhilm19.github.io/Covid-19-DarkMode/static/css/main.4153ba63.chunk.css"
+    "revision": "bc306ac8645106176953",
+    "url": "https://nikhilm19.github.io/Covid-19-DarkMode/static/css/main.c84b85db.chunk.css"
   },
   {
     "revision": "037fa78fb787df2f4ac3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c830a3944ddbd044770b",
-    "url": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/main.c7bcda4a.chunk.js"
+    "revision": "bc306ac8645106176953",
+    "url": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/main.0670b443.chunk.js"
   },
   {
     "revision": "a50d77e0ede062a1cb66",
