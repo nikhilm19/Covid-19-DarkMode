@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f73dbe5ff615acf660852d10662d6152",
+    "revision": "b08fd966e8a56c9fa0108dd08e4f2473",
     "url": "https://nikhilm19.github.io/Covid-19-DarkMode/index.html"
   },
   {
-    "revision": "85ec57dbc465f9a5dcc0",
-    "url": "https://nikhilm19.github.io/Covid-19-DarkMode/static/css/main.3968159b.chunk.css"
+    "revision": "7ff43a048e5eb38f3fbe",
+    "url": "https://nikhilm19.github.io/Covid-19-DarkMode/static/css/main.c8478a03.chunk.css"
   },
   {
     "revision": "037fa78fb787df2f4ac3",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "85ec57dbc465f9a5dcc0",
+    "revision": "7ff43a048e5eb38f3fbe",
     "url": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/main.275c44b1.chunk.js"
   },
   {
@@ -44,7 +44,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://nikhilm19.github.io/Covid-19-DarkMode/static/media/archia-semibold-webfont.90c5d848.eot"
   },
   {
+    "revision": "0345166e4199c60cb4953236dbe08a9f",
+    "url": "https://nikhilm19.github.io/Covid-19-DarkMode/static/media/archia-thin-webfont.0345166e.woff"
+  },
+  {
     "revision": "47f5c030c96f1eeaba2576757bad7209",
     "url": "https://nikhilm19.github.io/Covid-19-DarkMode/static/media/archia-thin-webfont.47f5c030.eot"
+  },
+  {
+    "revision": "9a733c1c930c166cdae7a06adf29b930",
+    "url": "https://nikhilm19.github.io/Covid-19-DarkMode/static/media/archia-thin-webfont.9a733c1c.ttf"
+  },
+  {
+    "revision": "e88f1cf30180bd74b3201844b0c03c69",
+    "url": "https://nikhilm19.github.io/Covid-19-DarkMode/static/media/archia-thin-webfont.e88f1cf3.woff2"
   }
 ]);
