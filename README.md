@@ -14,7 +14,7 @@
 
 A dark mode for [covid19india.org](covid19india.org)
 
-### ✨ [Demo](https://nikhilm19.github.io/Covid-19-DarkMode/)
+### ✨ [Demo](covid19.nikhilm19.tech)
 
 ## Usage
 
