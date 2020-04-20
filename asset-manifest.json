@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://nikhilm19.github.io/Covid-19-DarkMode/static/css/main.b5931923.chunk.css",
+    "main.css": "https://nikhilm19.github.io/Covid-19-DarkMode/static/css/main.4c24ec6e.chunk.css",
     "main.js": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/main.36ff4637.chunk.js",
     "main.js.map": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/main.36ff4637.chunk.js.map",
     "runtime-main.js": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/runtime-main.bfc36f2b.js",
@@ -8,16 +8,16 @@
     "static/js/2.12afe13d.chunk.js": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js",
     "static/js/2.12afe13d.chunk.js.map": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js.map",
     "index.html": "https://nikhilm19.github.io/Covid-19-DarkMode/index.html",
-    "precache-manifest.d864faa2874142cb75a8644b6fabda1d.js": "https://nikhilm19.github.io/Covid-19-DarkMode/precache-manifest.d864faa2874142cb75a8644b6fabda1d.js",
+    "precache-manifest.184996c09b47c0b301940dcc47b4d97e.js": "https://nikhilm19.github.io/Covid-19-DarkMode/precache-manifest.184996c09b47c0b301940dcc47b4d97e.js",
     "service-worker.js": "https://nikhilm19.github.io/Covid-19-DarkMode/service-worker.js",
-    "static/css/main.b5931923.chunk.css.map": "https://nikhilm19.github.io/Covid-19-DarkMode/static/css/main.b5931923.chunk.css.map",
+    "static/css/main.4c24ec6e.chunk.css.map": "https://nikhilm19.github.io/Covid-19-DarkMode/static/css/main.4c24ec6e.chunk.css.map",
     "static/js/2.12afe13d.chunk.js.LICENSE.txt": "https://nikhilm19.github.io/Covid-19-DarkMode/static/js/2.12afe13d.chunk.js.LICENSE.txt",
     "static/media/App.scss": "https://nikhilm19.github.io/Covid-19-DarkMode/static/media/archia-thin-webfont.e88f1cf3.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.bfc36f2b.js",
     "static/js/2.12afe13d.chunk.js",
-    "static/css/main.b5931923.chunk.css",
+    "static/css/main.4c24ec6e.chunk.css",
     "static/js/main.36ff4637.chunk.js"
   ]
 }
